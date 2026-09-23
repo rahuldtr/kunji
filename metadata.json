@@ -1,0 +1,6 @@
+{
+  "name": "miTbloom by mitraa for friends",
+  "description": "A botanical mood tracking calendar where each day is a petal in bloom. Log your daily emotions, track monthly records, and watch your emotional garden flourish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
